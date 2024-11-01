@@ -28,7 +28,7 @@
 <p align="left">
 <p><a href="https://linkedin.com/in/arun-seetharam-5582381b0"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&amp;logo=LINKEDIN" /></a> Arun Seetharam <br />
 <a href="https://orcid.org/0000-0002-6789-9298"><img src="https://img.shields.io/badge/ORCiD-grey?style=flat&amp;logo=ORCID" /></a> 0000-0002-6789-9298 <br />
-<a href="https://twitter.com/ArunSeetharam"><img src="https://img.shields.io/badge/Twitter-lightblue?style=flat&amp;logo=Twitter" alt="ArunSeetharam" /></a> ArunSeetharam <br />
+<a href="https://bsky.app/profile/arnstrm.bsky.social"><img src="https://img.shields.io/badge/Bluesky-lightblue?style=flat&amp;logo=bluesky" alt="arnstrm.bsky.social" /></a> arnstrm.bsky.social <br />
 <a href="https://github.com/aseetharam"><img src="https://img.shields.io/badge/GitHub-black?style=flat&amp;logo=github" alt="aseetharam" /></a> aseetharam <br />
 <a href="https://scholar.google.com/citations?user=Itos2p8AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-lightgrey?style=flat&amp;logo=Google-Scholar" alt="Arun Seetharam" /></a> Arun Seetharam</p>
 </p>
