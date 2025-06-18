@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun Seetharam</h1>
-<h3 align="center">Bioinformatician at Iowa State University</h3>
+<h3 align="center">Bioinformatician at Purdue University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aseetharam&label=Profile%20views&color=0e75b6&style=flat" alt="aseetharam" /> </p>
 
